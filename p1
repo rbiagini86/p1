@@ -10,7 +10,7 @@ A ideia do programa primeiro é desenvolver um software que faça:
 
 [] Relatórios de:
     
-    ( ) O que tem disponível;
-    ( ) Tempo que leva para usar;
+    []] O que tem disponível;
+    [] Tempo que leva para usar;
 
 """
