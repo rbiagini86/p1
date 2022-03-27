@@ -2,4 +2,15 @@
 Oi Gui.... Eu fiz esse arquivo aqui para testarmos o Git + GitHUB 
 
 """
+"""
+A ideia do programa primeiro é desenvolver um software que faça:
 
+[] Registro de produtos (estoque)
+[] Alertas de baixa no estoque para compras novas.
+
+[] Relatórios de:
+    
+    ( ) O que tem disponível;
+    ( ) Tempo que leva para usar;
+
+"""
